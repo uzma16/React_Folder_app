@@ -1,0 +1,20 @@
+/* styles.css */
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #a6b7da;
+  padding: 20px;
+  color: rgb(192, 92, 92);
+}
+
+h1 {
+  font-size: 24px;
+}
+
+.main {
+  margin-top: 20px;
+}
+
